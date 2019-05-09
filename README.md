@@ -2,7 +2,9 @@
 
 ### Data Recreation
 
-NB: To retreive the data that I used for this project, you will need to utilize two APIs. The first is from the Energy Information Association and the other is from the St. Louis Federal Reserve. In both instances you will need to have a personalized key provided by each website. Note: Both websites asked that I not share mine, so you simply have to just import yout key where stated.
+NB: To retrieve my data and recreate my results that I used and received for this project, you will need to utilize two APIs. The first is from the Energy Information Association and the other is from the St. Louis Federal Reserve. In both instances you will need to have a personalized key provided by each website. Note: Both websites asked that I not share mine, so you simply have to just import yout key where stated.
+
+* Simply download code file, input personal keys where applicable, and run code to recreate results. Easy as cake.
 
 
 
